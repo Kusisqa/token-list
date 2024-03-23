@@ -1,1 +1,11 @@
-
+{
+"chainId": 101,
+"address": "2yyfmJ5dL1AfjkHY4AQboAdogm52fHLYGkfnD6pjxLDP",
+"symbol": "Cunaj",
+"name": "Cunajcoin",
+"decimals": 0,
+"logoURI": "https://github.com/Kusisqa/Crypto/blob/main/CunajCoin2-min.png",
+"tags": [
+ "social-token"
+]
+}
