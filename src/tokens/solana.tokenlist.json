@@ -1,10 +1,10 @@
 {
       "chainId": 101,
-      "address": "2yyfmJ5dL1AfjkHY4AQboAdogm52fHLYGkfnD6pjxLDP",
-      "symbol": "CJCN",
-      "name": "CunajCoin",
+      "address": "3PymyLMTvLsruzABT1C1HjPgZhTEYwjR6zSStB4zcGGP",
+      "symbol": "Cunaj",
+      "name": "Cunaj",
       "decimals": 0,
-      "logoURI": "logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Kusisqa/Cunaj/main/logo.png",
       "tags": [
         "social-token"
       ]
